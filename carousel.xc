@@ -60,7 +60,7 @@
 		{
 			"x": 3,
 			"y": 40,
-			//"format": "<font face='$FieldFont' size='12' color='{{v.c_damageRating}}'>{{v.damageRating%d~%| }}</font>",
+			//"format": "<font face='$FieldFont' size='12' color='{{v.c_damageRating}}'>{{v.damageRating%.*2f}}</font>",
 			"format": "<font face='$FieldFont' size='12' color='white'>{{v.damageRating}}</font>",
 			"shadow": {
 				"distance": 0,

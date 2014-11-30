@@ -264,12 +264,12 @@
     // Dynamic color by kilo-battles
     // Динамический цвет по количеству кило-боев
     "kb": [
-      { "value": 2,   "color": ${"def.colorRating.very_bad" } },   //  0 - 2
-      { "value": 6,   "color": ${"def.colorRating.bad"      } },   //  2 - 6
-      { "value": 16,  "color": ${"def.colorRating.normal"   } },   //  6 - 16
-      { "value": 30,  "color": ${"def.colorRating.good"     } },   // 16 - 30
-      { "value": 43,  "color": ${"def.colorRating.very_good"} },   // 30 - 43
-      { "value": 999, "color": ${"def.colorRating.unique"   } }    // 43 - *
+      { "value": 2,   "color": ${"def.colorRating.normal"} },   //  0 - 2
+      { "value": 6,   "color": ${"def.colorRating.normal"} },   //  2 - 6
+      { "value": 16,  "color": ${"def.colorRating.normal"} },   //  6 - 16
+      { "value": 30,  "color": ${"def.colorRating.normal"} },   // 16 - 30
+      { "value": 43,  "color": ${"def.colorRating.normal"} },   // 30 - 43
+      { "value": 999, "color": ${"def.colorRating.normal"} }    // 43 - *
     ],
     // Dynamic color by average level of player tanks
     // Динамический цвет по среднему уровню танков игрока
