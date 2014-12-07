@@ -50,13 +50,13 @@
       "format": {
         // Never seen this enemy.
         // Этот враг никогда не светился.
-        "neverSeen": "",
+        "neverSeen": "<font face='$FieldFont' size='24' color='#e74c3c'>*</font>",
         // This enemy was seen at least once.
         // Этот враг светился хотя бы один раз и отмечен на миникарте как потерянный.
-        "lost": "<font face='$FieldFont' size='24' color='#999999'>*</font>",
+        "lost": "",
         // Enemy currently revealed at minimap.
         // Виден на миникарте прямо сейчас.
-        "revealed": "<font face='$FieldFont' size='24' color='#FFFFFF'>*</font>",
+        "revealed": "",
         // Dead enemy.
         // Уничтоженный враг.
         "dead": "",
